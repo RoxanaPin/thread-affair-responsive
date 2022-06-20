@@ -4,11 +4,12 @@
   "editor.tabSize": 2,
   "liveServer.settings.donotShowInfoMsg": true,
   "files.insertFinalNewline": true,
-  "editor.formatOnSave": true,
   "html.format.wrapAttributes": "force-expand-multiline",
+  "html.format.templating": true,
   "prettier.singleQuote": true,
   "javascript.format.semicolons": "insert",
   "prettier.trailingComma": "all",
+
   "[html]": {
     "editor.defaultFormatter": "vscode.html-language-features"
   },
@@ -20,6 +21,8 @@
   "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
   "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
   "[jsonc]": {},
+  "php.validate.executablePath": "c:\\xampp\\php\\php.exe",
+
   "liveServer.settings.donotVerifyTags": true,
   "launch": {
     "configurations": [],
@@ -28,7 +31,33 @@
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
   "json.schemas": [],
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "liveServer.settings.port": 5501
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "files.exclude": {
+    "**/.git": false
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.profiles.windows": {
+    "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe (migrated)": {
+      "path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+      "args": []
+    },
+    "C:\\Program Files\\Git\\bin\\bash.exe (migrated)": {
+      "path": "C:\\Program Files\\Git\\bin\\bash.exe",
+      "args": []
+    }
+  },
+  "terminal.external.windowsExec": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "terminal.explorerKind": "external",
+  "tabnine.experimentalAutoImports": true,
+  "window.zoomLevel": 0
 }
