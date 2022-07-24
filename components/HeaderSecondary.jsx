@@ -10,6 +10,7 @@ export default function HeaderSecondary() {
       <div className="header-support d-none d-lg-block">
         <ul>
           <li>
+            <i class="fa-solid fa-phone"></i>
             <a href="tel:1-877-666-1840" title="Call us">
               Toll Free 1-877-666-1840
             </a>{' '}
@@ -43,16 +44,17 @@ export default function HeaderSecondary() {
       <div className="header-controls">
         <ul>
           <li>
-            <a href="http://pixellab.ro" title="Cart">
-              <i className="fa-solid fa-cart-shopping"></i>
-            </a>
-          </li>
-
-          <li>
             <a href="http://pixellab.ro" title="My Account">
               <img src="/images/user-avatar.png" alt="My Account"></img>
 
               <i className="fa-solid fa-angle-down"></i>
+            </a>
+          </li>
+
+          <li>
+            <a href="http://pixellab.ro" title="Cart">
+              <i className="fa-solid fa-cart-shopping"></i>
+              <span>3</span>
             </a>
           </li>
         </ul>

@@ -6,152 +6,146 @@ export default function Footer() {
           <nav className="footer-nav">
             <ul>
               <li>
-                <a href="https://x.ro" title="Infomration">
-                  Infomration
+                <a href="https://x.ro" title="Information">
+                  INFORMATION
                 </a>
               </li>
 
               <li>
                 <a href="https://x.ro" title="Contact us">
-                  Contact us
+                  CONTACT US
                 </a>
               </li>
 
               <li>
                 <a href="https://x.ro" title="Track my order">
-                  Track my order
+                  TRACK MY ORDER{' '}
                 </a>
               </li>
 
               <li>
                 <a href="https://x.ro" title="Shipping">
-                  Shipping
+                  SHIPPING
                 </a>
               </li>
 
               <li>
                 <a href="https://x.ro" title="Free returns*">
-                  Free returns*
+                  FREE RETURNS*
                 </a>
               </li>
 
               <li>
                 <a href="https://x.ro" title="My Account">
-                  My Account
+                  MY ACCOUNT
                 </a>
               </li>
             </ul>
 
             <ul>
               <li>
-                <a href="https://x.ro" title="Infomration">
-                  Infomration
+                <a href="https://x.ro" title="SERVICES">
+                  SERVICES
                 </a>
               </li>
 
               <li>
-                <a href="https://x.ro" title="Contact us">
-                  Contact us
+                <a href="https://x.ro" title="SHIP TO STORE">
+                  SHIP TO STORE
                 </a>
               </li>
 
               <li>
-                <a href="https://x.ro" title="Track my order">
-                  Track my order
+                <a href="https://x.ro" title="GIFT CARD">
+                  GIFT CARD
                 </a>
               </li>
 
               <li>
-                <a href="https://x.ro" title="Shipping">
-                  Shipping
+                <a href="https://x.ro" title="ONLINE ONLY">
+                  ONLINE ONLY
                 </a>
               </li>
 
               <li>
-                <a href="https://x.ro" title="Free returns*">
-                  Free returns*
+                <a href="https://x.ro" title="TIPS & TRICKS">
+                  TIPS & TRICKS
                 </a>
               </li>
 
               <li>
-                <a href="https://x.ro" title="My Account">
-                  My Account
-                </a>
-              </li>
-            </ul>
-
-            <ul>
-              <li>
-                <a href="https://x.ro" title="Infomration">
-                  Infomration
-                </a>
-              </li>
-
-              <li>
-                <a href="https://x.ro" title="Contact us">
-                  Contact us
-                </a>
-              </li>
-
-              <li>
-                <a href="https://x.ro" title="Track my order">
-                  Track my order
-                </a>
-              </li>
-
-              <li>
-                <a href="https://x.ro" title="Shipping">
-                  Shipping
-                </a>
-              </li>
-
-              <li>
-                <a href="https://x.ro" title="Free returns*">
-                  Free returns*
-                </a>
-              </li>
-
-              <li>
-                <a href="https://x.ro" title="My Account">
-                  My Account
+                <a href="https://x.ro" title="HOME">
+                  HOME
                 </a>
               </li>
             </ul>
 
             <ul>
               <li>
-                <a href="https://x.ro" title="Infomration">
-                  Infomration
+                <a href="https://x.ro" title="LOYALTY PROGRAMS">
+                  LOYALTY PROGRAMS
                 </a>
               </li>
 
               <li>
-                <a href="https://x.ro" title="Contact us">
-                  Contact us
+                <a href="https://x.ro" title="SIGN UP TO THE SIMONS">
+                  SIGN UP TO THE SIMONS
                 </a>
               </li>
 
               <li>
-                <a href="https://x.ro" title="Track my order">
-                  Track my order
+                <a href="https://x.ro" title="MY ACCOUNT">
+                  MY ACCOUNT
                 </a>
               </li>
 
               <li>
-                <a href="https://x.ro" title="Shipping">
-                  Shipping
+                <a href="https://x.ro" title="CONDITIONS">
+                  CONDITIONS
                 </a>
               </li>
 
               <li>
-                <a href="https://x.ro" title="Free returns*">
-                  Free returns*
+                <a href="https://x.ro" title="FAQ">
+                  FAQ
+                </a>
+              </li>
+            </ul>
+
+            <ul>
+              <li>
+                <a href="https://x.ro" title="CAREERS">
+                  CAREERS
                 </a>
               </li>
 
               <li>
-                <a href="https://x.ro" title="My Account">
-                  My Account
+                <a href="https://x.ro" title="ABOUT US">
+                  ABOUT US
+                </a>
+              </li>
+
+              <li>
+                <a href="https://x.ro" title="OUR STORY">
+                  OUR STORY
+                </a>
+              </li>
+
+              <li>
+                <a href="https://x.ro" title="ART & CULTURE">
+                  ART & CULTURE
+                </a>
+              </li>
+
+              <li>
+                <a href="https://x.ro" title="OUR PRIVATE LABELS">
+                  OUR PRIVATE LABELS
+                </a>
+              </li>
+
+              <li>
+                <a href="https://x.ro" title="STORES">
+                  STORES
                 </a>
               </li>
             </ul>
@@ -159,7 +153,7 @@ export default function Footer() {
 
           <section className="footer-contact">
             <h1>
-              <span>Thread Affair</span> Milano
+              <span>THREAD AFFAIR</span> MILANO
             </h1>
 
             <p>
@@ -178,20 +172,23 @@ export default function Footer() {
           <section className="footer-support">
             <ul>
               <li>
-                <a href="https://x.ro" title="Suppoert">
-                  Suppoert
+                <i class="fa-solid fa-voicemail"></i>
+                <a href="https://x.ro" title="Support">
+                  SUPPORT
                 </a>
               </li>
 
               <li>
+                <i class="fa-solid fa-comment-dots"></i>
                 <a href="https://x.ro" title="Chat">
-                  Chat
+                  CHAT
                 </a>
               </li>
 
               <li>
+                <i class="fa-solid fa-at"></i>
                 <a href="https://x.ro" title="Email">
-                  Email
+                  EMAIL
                 </a>
               </li>
             </ul>
