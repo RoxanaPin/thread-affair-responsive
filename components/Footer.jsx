@@ -172,21 +172,21 @@ export default function Footer() {
           <section className="footer-support">
             <ul>
               <li>
-                <i class="fa-solid fa-voicemail"></i>
+                <i className="fa-solid fa-voicemail"></i>
                 <a href="https://x.ro" title="Support">
                   SUPPORT
                 </a>
               </li>
 
               <li>
-                <i class="fa-solid fa-comment-dots"></i>
+                <i className="fa-solid fa-comment-dots"></i>
                 <a href="https://x.ro" title="Chat">
                   CHAT
                 </a>
               </li>
 
               <li>
-                <i class="fa-solid fa-at"></i>
+                <i className="fa-solid fa-at"></i>
                 <a href="https://x.ro" title="Email">
                   EMAIL
                 </a>
